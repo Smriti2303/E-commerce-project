@@ -19,7 +19,9 @@ Open the project directory.
 Launch the index.html file in your preferred web browser.
 Usage
 Upon opening the index.html file, navigate through the different pages using the navigation menu.
+
 Explore the Shop page to view available products and utilize the Add to Cart feature.
+
 Access the Blog, About, and Contact pages to explore additional content and interact with the site's features.
 Folder Structure
 css: Contains CSS files for styling the website.
