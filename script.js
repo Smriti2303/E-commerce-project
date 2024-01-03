@@ -1,1 +1,0 @@
-//agar karni huyi toh baad mai karenge- Animation and Effects
