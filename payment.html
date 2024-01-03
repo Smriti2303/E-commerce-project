@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Payment Gateway</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Secure Payment Gateway</h1>
+    <form id="payment-form">
+      <label for="name">Name</label>
+      <input type="text" id="name" placeholder="Enter your name" required>
+      <label for="phone">Phone Number</label>
+      <input type="tel" id="phone" placeholder="Enter your phone number" required>
+      <label for="address">Billing Address</label>
+      <textarea id="address" placeholder="Enter your billing address" required></textarea>
+      <label for="amount">Amount to Pay</label>
+      <input type="number" id="amount" value="587" required readonly>
+      <button type="submit">Checkout</button>
+    </form>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
